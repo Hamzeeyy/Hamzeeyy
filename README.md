@@ -1,36 +1,24 @@
 # Hi, I'm Hamza Rasheed 👋
-### Energy Automation & Electrical Systems Engineer | M.Sc. Student at Åland University of Applied Sciences
+
+**Computer Science & Energy Automation Engineer** | M.Sc. Student at Åland University of Applied Sciences  
+*Bridging CS, Machine Learning, and Power Systems for Predictive Maintenance & Smart Grid Automation.*
 
 📍 **Based in:** Helsinki, Finland  
 📧 **Email:** hamza.eu.fi@gmail.com  
-💼 **LinkedIn:** [Hamza Rasheed](https://www.linkedin.com/in/hamzeeyy)
+💼 **LinkedIn:** [Hamza Rasheed](https://www.linkedin.com)  
 
 ---
 
-## ⚡ About Me
-I specialize in **Energy Automation, Power Systems Analysis, Smart Grids, and Thermal Control Systems**. My work integrates engineering principles with data-driven models using **MATLAB, Simulink, Python, and Power BI** to optimize energy efficiency and grid stability.
+### ⚡ About Me
+I specialize at the intersection of **Computer Science** and **Energy Automation**, applying data-driven algorithms, Machine Learning, and physical domain modeling to smart energy infrastructure. My primary focus is on **Predictive Maintenance (PdM)**, fault detection, and anomaly diagnosis for power grids, battery storage (BESS), and industrial automation systems.
 
-- 🛠️ **Core Expertise:** Grid Dynamics, BESS Optimization, Anomaly Detection, Dynamic Thermal Modeling, Control Systems.
-- 🎯 **Current Focus:** Seeking opportunities in Data Center Infrastructure, Power Systems Engineering, and Automation in Finland.
-
----
-
-## 🛠 Tech Stack & Tools
-- **Languages & Analysis:** Python (Pandas, NumPy), MATLAB, SQL
-- **Modeling & Simulation:** Simulink, Power Systems Simulation, Control Loops (PI/PID)
-- **Visualization & Monitoring:** Power BI, Data Analytics Dashboards
-- **Domains:** Smart Grids, BESS, District Heating Systems, Microgrid Control
+- 🛠️ **Core Expertise:** Predictive Maintenance (PdM), Anomaly Detection, ML for Power Systems, Grid Dynamics, Condition Monitoring.
+- 🎯 **Current Focus:** Seeking roles in Predictive Maintenance Engineering, Smart Grid Software, Energy Automation, and Data Center Infrastructure in Finland.
 
 ---
 
-## 🚀 Key Projects
-- **Grid Stability & Renewable Integration:** Dynamic Simulink modeling for frequency and voltage stability in Nordic microgrids.
-- **BESS Optimization for Peak Shaving:** Python-based State-of-Charge (SoC) cycle analysis and degradation modeling.
-- **Real-Time Energy Consumption Dashboard:** Power BI & Python pipeline for industrial load sub-metering and anomaly detection.
-- **District Heating Thermal Efficiency:** MATLAB/Simulink thermal dynamic response modeling for Finnish winter conditions.
-
----
-
-<p align="center">
-  <i>Open to technical collaborations and engineering roles in Power Automation & Data Center Infrastructure.</i>
-</p>
+### 🛠️ Tech Stack & Tools
+- **CS & Data Science:** Python (Pandas, NumPy, Scikit-learn), SQL, Data Structures & Algorithms, Git/GitHub
+- **Modeling & Control:** MATLAB, Simulink, Physics-Informed ML, Dynamic Thermal & Control Loops (PI/PID)
+- **Monitoring & Analytics:** Power BI Dashboards, Time-Series Data Analysis, Fault Diagnostics
+- **Domains:** Predictive Maintenance, Smart Grids, BESS Optimization, Microgrid Control, Data Center Power Systems
